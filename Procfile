@@ -1,0 +1,1 @@
+web: bundle exec ruby imgservice.rb -p $PORT
